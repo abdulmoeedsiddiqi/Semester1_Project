@@ -19,7 +19,9 @@ Square Root and Cube Root
 Nth Root
 
 Trigonometric Functions
+
 Sine, Cosine, Tangent
+
 Cotangent, Secant, Cosecant
 
 Inverse Trigonometric Functions (Arcsin, Arccos, Arctan)
@@ -27,11 +29,15 @@ Inverse Trigonometric Functions (Arcsin, Arccos, Arctan)
 Logarithmic Functions
 
 Natural Logarithm (log base e)
+
 Common Logarithm (log base 10)
+
 Binary Logarithm (log base 2)
 
 Additional Functions
 
 Quadratic Equation Solver
+
 Permutation (nPr)
+
 Combination (nCr)
