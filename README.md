@@ -3,9 +3,9 @@ Overview
 This C++ project implements a simple console-based program that performs various mathematical operations. Users can choose from a list of operations including basic arithmetic, trigonometric functions, logarithms, roots, and more.
 
 Features
-Basic Arithmetic Operations
+Basic Arithmetic Operations 
 
-Addition
+Addition  
 Subtraction
 Multiplication
 Division
