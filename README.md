@@ -7,9 +7,9 @@ Basic Arithmetic Operations
 
 Addition  
 Subtraction
-
 Multiplication
 Division
+
 Advanced Mathematical Operations
 
 Factorial
@@ -17,16 +17,19 @@ Exponentiation
 Square and Cube Calculations
 Square Root and Cube Root
 Nth Root
-Trigonometric Functions
 
+Trigonometric Functions
 Sine, Cosine, Tangent
 Cotangent, Secant, Cosecant
+
 Inverse Trigonometric Functions (Arcsin, Arccos, Arctan)
+
 Logarithmic Functions
 
 Natural Logarithm (log base e)
 Common Logarithm (log base 10)
 Binary Logarithm (log base 2)
+
 Additional Functions
 
 Quadratic Equation Solver
