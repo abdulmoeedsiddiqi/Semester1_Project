@@ -6,7 +6,9 @@ Features
 Basic Arithmetic Operations 
 
 Addition  
+
 Subtraction
+
 Multiplication
 Division
 Advanced Mathematical Operations
